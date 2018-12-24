@@ -8,3 +8,4 @@
 #include "quick_sort_unittest.cpp"
 #include "heap_sort_unittest.cpp"
 #include "shell_sort_unittest.cpp"
+#include "count_sort_unittest.cpp"

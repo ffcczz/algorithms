@@ -10,6 +10,7 @@
 * quick sort: [c++](sort/quick_sort.cpp), [golang](sort/quick_sort.go)
 * heap sort: [c++](sort/heap_sort.cpp), [golang](sort/heap_sort.go)
 * shell sort: [c++](sort/shell_sort.cpp), [golang](sort/shell_sort.go)
+* count sort: [c++](sort/count_sort.cpp), [golang](sort/count_sort.go)
 
 ### Run Test
 c++:
