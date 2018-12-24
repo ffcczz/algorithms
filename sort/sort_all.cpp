@@ -7,3 +7,4 @@
 #include "merge_sort.cpp"
 #include "quick_sort.cpp"
 #include "heap_sort.cpp"
+#include "shell_sort.cpp"

@@ -7,7 +7,7 @@
 
 using namespace std;
 
-TEST(SorTest, MergeSort) {
+TEST(SortTest, MergeSort) {
     vector<int> inArr;
     inArr.push_back(0);
     inArr.push_back(18);

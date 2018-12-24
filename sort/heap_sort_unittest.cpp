@@ -7,7 +7,7 @@
 
 using namespace std;
 
-TEST(SorTest, HeapSort) {
+TEST(SortTest, HeapSort) {
     int inArr[5] = {0, 19, 22, 10, -1};
     heapSort(inArr, 5);
     EXPECT_EQ(-1, inArr[0]);

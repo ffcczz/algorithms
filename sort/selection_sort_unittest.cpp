@@ -7,7 +7,7 @@
 
 using namespace std;
 
-TEST(SorTest, SelectionSort) {
+TEST(SortTest, SelectionSort) {
     vector<int> inArr;
     inArr.push_back(0);
     inArr.push_back(18);

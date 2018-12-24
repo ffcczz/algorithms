@@ -7,7 +7,7 @@
 
 using namespace std;
 
-TEST(SorTest, QuickSort) {
+TEST(SortTest, QuickSort) {
     int inArr[9] = {21, 31, 2, 3, 11, 9, 8, -10, -2};
     quickSort(inArr, 0, sizeof(inArr) / sizeof(inArr[0]) - 1);
     EXPECT_EQ(-10, inArr[0]);
