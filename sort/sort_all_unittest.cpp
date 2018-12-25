@@ -9,3 +9,4 @@
 #include "heap_sort_unittest.cpp"
 #include "shell_sort_unittest.cpp"
 #include "count_sort_unittest.cpp"
+#include "radix_sort_unittest.cpp"
